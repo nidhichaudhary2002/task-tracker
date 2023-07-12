@@ -1,9 +1,9 @@
 {
   "tasks": [
     {
-      "text": "test it",
-      "day": "15 jan 2022",
-      "reminder": false,
+      "text": "Update Task Tracker",
+      "day": "",
+      "reminder": "false",
       "id": 1
     }
   ]

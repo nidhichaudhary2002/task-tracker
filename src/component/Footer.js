@@ -3,10 +3,10 @@
 const Footer = () => {
   return (
     <footer>
-        <p>Copyright &copy ;2021</p>
-        <a href="/about"></a>
+      <p>Copyright nidhichaudhary2002</p>
+      <a href="/about"></a>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
